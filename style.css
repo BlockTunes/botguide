@@ -1,0 +1,20 @@
+h1 {
+    color: #41beac;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+body {
+    background: #a1a1a1;
+}
+
+div {
+    background: #505050;
+    height: 3em;
+}
+/* p {
+    color: #433f52;
+    background-color: lightgrey;
+    text-align: center;
+} */
